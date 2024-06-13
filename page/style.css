@@ -1,0 +1,26 @@
+.square {
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    cursor: default;
+}
+
+.green {
+    background-color: green;
+    cursor: pointer;
+}
+
+.red {
+    background-color: red;
+    cursor: pointer;
+}
+
+#reactionTime {
+    font-size: 1.5rem;
+    margin-top: 20px;
+}
+
+button {
+    display: block;
+    margin: auto;
+}
